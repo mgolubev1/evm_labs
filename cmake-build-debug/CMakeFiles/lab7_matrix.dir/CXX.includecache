@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/maxim/CLionProjects/lab7_matrix/main.cpp
+chrono
+-
+fstream
+-
+immintrin.h
+-
+iostream
+-
+algorithm
+-
+

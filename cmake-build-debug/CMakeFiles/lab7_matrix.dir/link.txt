@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab7_matrix.dir/main.cpp.o  -o lab7_matrix 
