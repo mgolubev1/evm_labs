@@ -1,3 +1,0 @@
-/mnt/c/Users/maxim/CLionProjects/lab7_matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/maxim/CLionProjects/lab7_matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/maxim/CLionProjects/lab7_matrix/cmake-build-debug/CMakeFiles/lab7_matrix.dir
